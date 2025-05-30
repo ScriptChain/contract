@@ -1,5 +1,3 @@
-pub mod book_nft;
-pub mod marketplace;
-pub mod quiz_game;
-pub mod reward_token;
-pub mod engagement_rewarder;
+pub mod interfaces;
+pub mod components;
+pub mod types;
