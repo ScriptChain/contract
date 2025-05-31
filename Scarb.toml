@@ -15,3 +15,4 @@ cairo_test = "2.9.4"
 
 [[target.starknet-contract]]
 casm = true
+sierra = true
